@@ -16,12 +16,13 @@
     "fetchSpec": "~1.2.4"
   },
   "_requiredBy": [
-    "#USER"
+    "#USER",
+    "/"
   ],
   "_resolved": "https://registry.npmjs.org/cordova-plugin-battery-status/-/cordova-plugin-battery-status-1.2.5.tgz",
   "_shasum": "6c648f9b3cf5ab034b95c5cffe584f5576d42ca9",
   "_spec": "cordova-plugin-battery-status@~1.2.4",
-  "_where": "/Users/valmar/dev/pg/f7kitchen",
+  "_where": "/Users/valmar/tmp/mytest",
   "author": {
     "name": "Apache Software Foundation"
   },

@@ -13,7 +13,10 @@
       "id": "cordova-plugin-camera@~2.4.1"
     },
     "is_top_level": true,
-    "variables": {}
+    "variables": {
+      "CAMERA_USAGE_DESCRIPTION": " ",
+      "PHOTOLIBRARY_USAGE_DESCRIPTION": " "
+    }
   },
   "cordova-plugin-compat": {
     "source": {
@@ -29,7 +32,11 @@
       "id": "cordova-plugin-media-capture@~1.4.3"
     },
     "is_top_level": true,
-    "variables": {}
+    "variables": {
+      "CAMERA_USAGE_DESCRIPTION": " ",
+      "MICROPHONE_USAGE_DESCRIPTION": " ",
+      "PHOTOLIBRARY_USAGE_DESCRIPTION": " "
+    }
   },
   "cordova-plugin-file": {
     "source": {
@@ -61,7 +68,9 @@
       "id": "cordova-plugin-geolocation@~2.4.3"
     },
     "is_top_level": true,
-    "variables": {}
+    "variables": {
+      "GEOLOCATION_USAGE_DESCRIPTION": " "
+    }
   },
   "cordova-plugin-globalization": {
     "source": {
