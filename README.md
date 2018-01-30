@@ -2,9 +2,11 @@
 
 Just a test of Framework7 V2 Kitchen Sink combined with PhoneGap.
 
-Make sure you have PhoneGap installed: `npm install -g phonegap`
+Make sure you have PhoneGap installed: `npm install -g phonegap`.
 
-Download, then in terminal:
+### Usage
+
+Download this repo, then in terminal:
 
 - `npm install`
 - `phonegap serve`
