@@ -8,13 +8,13 @@ Just a test of Framework7 V2 Kitchen Sink combined with PhoneGap.
 
 Make sure you have PhoneGap installed: `npm install -g phonegap`.
 
-Download this repo, then in terminal: `npm install`
+Download this repo, then in project directory run this in terminal: `npm install`
 
 ----------------------
 
 ### Run in iOS simulator
 
-Make sure you have XCode installed.
+Make sure you have XCode installed and run this:
 
 `phonegap run ios`
 
