@@ -16,7 +16,10 @@ Download this repo, then in project directory run this in terminal: `npm install
 
 Make sure you have XCode installed and run this:
 
-`phonegap run ios`
+```shell
+phonegap platform add ios
+phonegap run ios
+```
 
 ----------------------
 
