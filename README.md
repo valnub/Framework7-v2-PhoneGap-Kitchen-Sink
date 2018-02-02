@@ -17,15 +17,15 @@ Download this repo, then in project directory run this in terminal: `npm install
 Make sure you have XCode installed and run this:
 
 ```shell
-phonegap platform add ios
-phonegap run ios
+$ phonegap platform add ios
+$ phonegap run ios
 ```
 
 ----------------------
 
 ### Run in browser
 
-`phonegap serve`
+`$ phonegap serve`
 
 Open in your browser `localhost:3000`
 
